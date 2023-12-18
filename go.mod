@@ -1,4 +1,4 @@
-module codjust/holmes
+module github.com/codjust/holmes
 
 go 1.14
 
